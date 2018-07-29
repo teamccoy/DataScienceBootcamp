@@ -1,2 +1,2 @@
 # DataScienceBootcamp
-Data Science Bootcamp course work and projects
+Data Science Bootcamp projects
