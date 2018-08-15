@@ -4,7 +4,7 @@ Data Used: San Diego 311 calls, Census Data, Google Maps, Zillow
 
 Methods Used to Analyze: Python: Pandas, Numpy, Matplotlib; Tableau: visualization
 
-Presentation: Used PowerPoint to communcate the analysis to an audience of 30 people.
+Presentation: Used PowerPoint to communicate the analysis to an audience of 30 people.
 
 Overview: The review encompassed a storyline of Mark who is moving from New York to California and did not want to live in a neighborhood
 where the neighbors complain, also wanted to live close to Balboa Park in a relatively inexpensive nice neighborhood.
@@ -13,9 +13,9 @@ Park, 311 call types, education, income and age based on each neighborhood.
 
 Review the PDF presentation of the PowerPoint to find out where Mark chose to live.
 
-This project was completed with a total of 4 members.
+This project was completed with a total of 4 members. We chose our own topic to evaluate.
 
-My primary role: data cleaning and data visualization. Pulled Zillow data for project. 
+My primary role: data cleaning and data visualizations. Pulled Zillow data for project. 
 
 Disclaimer:
 Not able to upload 311 data to repo due to large file (80 MB)
