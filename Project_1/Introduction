@@ -1,0 +1,15 @@
+What neighborhoods in San Diego, CA whine/complain the most?
+
+Data Used: San Diego 311 calls, Census Data, Google Maps, Zillow
+
+Methods Used to Analyze: Python: Pandas, Numpy, Matplotlib; Tableau: visualization
+
+Presentation: Used PowerPoint to communcate the analysis to an audience of 30 people.
+
+Overview: The review encompassed a storyline of Mark who is moving from New York to California and did not want to live in a neighborhood
+where the neighbors complain, also wanted to live close to Balboa Park in a relatively inexpensive nice neighborhood.
+Mark made his decision based on the data presented based on the median average rent for a 1 bedroom apartment in a 3 mile radius of Balboa
+Park, 311 call types, education, income and age based on each neighborhood.
+
+Review the PDF presentation of the PowerPoint to find out where Mark chose to live.
+
